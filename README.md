@@ -1,6 +1,6 @@
 # Gas Station Network Site
 
-The official front end for the [Gas Station Network](https://gasstation.network).  The staging site is [here](https://gsn-staging.netlify.com).
+The official front end for the [Gas Station Network](https://opengsn.org/).  The staging site is [here](https://gsn-staging.netlify.com).
 
 ## GSN Test Environment
 
@@ -39,7 +39,7 @@ For full control over the smart contracts you'll want to setup the Gas Station N
 
 ## Gas Station Network Local Test Environment
 
-Setup a local clone of [tabookey-gasless](https://github.com/tabookey/tabookey-gasless).  
+Setup a local clone of the [GSN repo](https://github.com/openeth-dev/gsn).  
 
 Once the dependencies are set up you can run:
 
@@ -59,7 +59,7 @@ Replace `0x1234...` with your address.
 
 In your browser simply use the network `Localhost 8545`.  You may need to reset the account.
 
-You'll find Tabookey has cleverly deployed consistent addresses.
+You'll find GSN1 has cleverly deployed consistent addresses on all networks.
 
 | Role | Address | Description |
 | ---- | ------- | ----------- |
