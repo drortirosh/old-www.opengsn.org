@@ -53,7 +53,7 @@ const RecipientsIndex = class _RecipientsIndex extends PureComponent {
               Check your contract balances and make deposits using this <strong>Dapp Tool</strong>.  You'll want to make sure the contract has enough of an Ether balance to cover transaction costs for users.
             </p>
             <p>
-              Enter the contract address below.  The contract must implement the <a href='https://github.com/tabookey/tabookey-gasless/blob/master/contracts/RelayRecipient.sol' target='_blank' rel='noopen' rel='noreferrer'>RelayRecipient</a> interface.
+              Enter the contract address below.  The contract must implement the <a href='https://github.com/openeth-dev/gsn/blob/GSNv1/contracts/RelayRecipient.sol' target='_blank' rel='noopen' rel='noreferrer'>RelayRecipient</a> interface.
             </p>
           </div>
           <form onSubmit={this.handleSubmit}>
