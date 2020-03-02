@@ -22,16 +22,6 @@ export const GSNAlliance = function() {
               <img src={OpenZeppelinColorLogo} className='mx-auto hover:opacity-80 trans trans-fast' />
             </a>
           </div>
-          <div className='md:w-1/4 mb-20 px-20 sm:px-12 md:px-6 md:-mt-1'>
-            <a href='https://www.tabookey.com'>
-              <img
-                srcSet='/static/tabookey-logo.png 1x, /static/tabookey-logo@2x.png 2x'
-                src='/static/tabookey-logo.png'
-                alt='Tabookey logo'
-                className='mx-auto hover:opacity-80 trans trans-fast'
-              />
-            </a>
-          </div>
           <div className='md:w-1/4 mb-20 px-20 sm:px-12 md:px-6'>
             <a href='https://www.portis.io'>
               <img src={PortisLogo} className='mx-auto hover:opacity-80 trans trans-fast' width='98' height='30' />
