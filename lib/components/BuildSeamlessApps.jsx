@@ -34,19 +34,6 @@ export const BuildSeamlessApps = function() {
             />
           </div>
 
-          <div className='flex max-w-auto lg-card-width-and-padding-override mt-6 order-2 sm:px-6 lg:my-20 lg:max-w-sm'>
-            <Card
-              img={<img
-                srcSet='/static/tabookey-logo.png 1x, /static/tabookey-logo@2x.png 2x'
-                src='/static/tabookey-logo.png'
-                alt='Tabookey logo'
-                className='mx-auto'
-              />}
-              text={<p className="text-sm">TabooKey started this project. It invented the GSN (EIP 1613) so dapps have a trustless decentralized way of onboarding new users with no ETH to pay for gas fees, or even users with no wallet at all!</p>}
-              url='https://www.tabookey.com'
-            />
-          </div>
-
           <div className='flex max-w-auto lg-card-width-and-padding-override mt-6 mb-6 order-3 sm:px-6 lg:my-20 lg:order-1 lg:max-w-sm'>
             <Card
               img={<img src={PortisLogo} />}
