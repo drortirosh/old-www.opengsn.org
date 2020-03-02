@@ -6,7 +6,7 @@ export const Meta = ({ title }) => {
 
   const url = `https://gsn-staging.netlify.com`
   const description = 'The Gas Station Network is the ultimate onboarding solution for Ethereum applications enabling you to pay for transaction gas fees on behalf of your users.'
-  const keywords = 'zeppelin openzeppelin tabookey gsn gas station network deltacamp delta camp ethereum smart contract'
+  const keywords = 'metatx zeppelin openzeppelin gsn gas station network deltacamp delta camp ethereum smart contract'
   const twitterHandle = '@GSN'
 
   return (
