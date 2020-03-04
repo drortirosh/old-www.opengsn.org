@@ -20,7 +20,7 @@ export const Hero = function() {
           <h2 className='text-sm md:text-md opacity-80 subpixel-antialiased tracking-wide mt-2 mb-4 py-4'>
             Turn your dapps into apps. Free your users. No more gas.
           </h2>
-          <div className="m-auto justify-center flex flex-wrap sm:justify-between flex-row space-between max-w-md">
+          <div className="m-auto justify-center sm:justify-between flex-row space-between max-w-md">
             <a
               href="https://t.me/joinchat/F_BETUjG0Crb2s6mFx1LWA"
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-blue-500 hover:bg-blue-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'>
