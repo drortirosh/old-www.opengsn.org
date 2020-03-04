@@ -22,6 +22,13 @@ export const Hero = function() {
           </h2>
           <div className="m-auto justify-center flex flex-wrap sm:justify-between flex-row space-between max-w-md">
             <a
+              href="https://t.me/joinchat/F_BETUjG0Crb2s6mFx1LWA"
+              className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-blue-500 hover:bg-blue-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'>
+              Reach out on Telegram
+            </a>
+	  </div>
+          <div className="m-auto justify-center flex flex-wrap sm:justify-between flex-row space-between max-w-md">
+            <a
               href='https://docs.opengsn.org/learn/'
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-indigo-500 hover:bg-indigo-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'
             >
@@ -32,13 +39,6 @@ export const Hero = function() {
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-blue-500 hover:bg-blue-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'
             >
               Checkout the Code
-            </a>
-            <a
-              href="https://t.me/joinchat/F_BETUjG0Crb2s6mFx1LWA"
-              className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-blue-500 hover:bg-blue-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'
-            >
-            <SVG/>
-              Telegram
             </a>
           </div>
         </div>
