@@ -21,7 +21,7 @@ export const BuildSeamlessApps = function() {
           </p>
         </div>
 
-        <div className='flex flex-wrap lg:-mx-32 lg-margin-override'>
+        <div className='flex flex-wrap justify-center lg:-mx-32 lg-margin-override'>
           <div className='flex max-w-auto lg-card-width-and-padding-override mt-6 mb-6 order-2 sm:px-6 lg:my-20 lg:order-2 lg:max-w-sm'>
             <Card
               img={<img src={OpenZeppelinLogo} />}

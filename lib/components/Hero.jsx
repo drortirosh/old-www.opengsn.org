@@ -24,7 +24,7 @@ export const Hero = function() {
             <a
               href="https://t.me/joinchat/F_BETUjG0Crb2s6mFx1LWA"
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-blue-500 hover:bg-blue-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'>
-              Reach out on Telegram
+              Dev support on Telegram
             </a>
 	  </div>
           <div className="m-auto justify-center flex flex-wrap sm:justify-between flex-row space-between max-w-md">
