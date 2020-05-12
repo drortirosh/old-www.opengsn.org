@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 export const Meta = ({ title }) => {
-  const defaultTitle = 'GSN (Gas Stations Network)'
+  const defaultTitle = 'GSN - Ethereum Gas Station Network'
   title = title ? `${title} - ${defaultTitle}` : defaultTitle
 
   const url = `https://gsn-staging.netlify.com`

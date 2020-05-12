@@ -24,7 +24,7 @@ export const Nav = class _Nav extends Component {
                 title='Home'
               >
                 <span className='font-silkaBlack text-4xl leading-none text-indigo-500 mr-4'>G<span className='text-blue-300'>S</span><span className='text-teal-200'>N</span></span>
-                <span className='font-silkaSemiBold text-lg text-blue-900 nav-title hidden sm:block'>Gas Station Network</span>
+                <span className='font-silkaSemiBold text-lg text-blue-900 nav-title hidden sm:block'>Etherem Gas Station Network</span>
               </a>
             </Link>
           </div>
