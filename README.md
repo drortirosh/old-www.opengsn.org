@@ -39,7 +39,7 @@ For full control over the smart contracts you'll want to setup the Gas Station N
 
 ## Gas Station Network Local Test Environment
 
-Setup a local clone of the [GSN repo](https://github.com/openeth-dev/gsn).  
+Setup a local clone of the [GSN repo](https://github.com/opengsn/gsn).  
 
 Once the dependencies are set up you can run:
 
