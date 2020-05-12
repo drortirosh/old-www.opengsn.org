@@ -1,5 +1,4 @@
 import { Meta } from './Meta'
-import Footer from './Footer'
 import { initGA, logPageView } from '../../utils/analytics'
 
 import 'assets/styles/index.css'
@@ -26,7 +25,6 @@ export class MainLayout extends React.Component {
           title={title}
         />
         {children}
-        <Footer />
       </div>
     );
   }
