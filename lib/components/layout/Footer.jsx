@@ -1,8 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
 
-import DeltaCampWhiteLogo from 'assets/images/delta-camp-white-logo3.svg'
-
 export default () => (
   <footer className='bg-blue-900 text-white'>
     <div className='container pt-6 pb-6 lg:pt-12 lg:pb-32'>
@@ -13,31 +11,13 @@ export default () => (
         >
           <div className='text-sm lg:flex-grow'></div>
 
-          <a href='https://github.com/openeth-dev/gsn' className='block md:inline-block font-silkaMedium text-bold text-sm text-white pr-6 lg:pr-0 lg:pl-16 pt-1 leading-none mt-4 lg:mt-0'>
+          <a href='https://github.com/opengsn/gsn' className='block md:inline-block font-silkaMedium text-bold text-sm text-white pr-6 lg:pr-0 lg:pl-16 pt-1 leading-none mt-4 lg:mt-0'>
             GitHub
           </a>
-          <Link href='/recipients'>
-            <a href='#' className='block md:inline-block font-silkaMedium text-bold text-sm text-white pr-6 lg:pr-0 lg:pl-16 pt-1 leading-none mt-4 lg:mt-0'>
-              Dapp Tool
-            </a>
-          </Link>
 
-          <Link href='/relays'>
-            <a href='#' className='block md:inline-block font-silkaMedium text-bold text-sm text-white pr-6 lg:pr-0 lg:pl-16 pt-1 leading-none mt-4 lg:mt-0'>
-              Relayer Tool
-            </a>
-          </Link>
         </div>
       </nav>
 
-      <div className='lg:-my-16'>
-        <p className='text-xxs text-white pt-6 opacity-100'>
-          Website developed by <a href='https://delta.camp' target='_blank' rel='noreferrer'><img src={DeltaCampWhiteLogo} width='110' className='inline-block -my-2' /></a>
-        </p>
-        <p className='text-xxs text-white'>
-          &copy; 2020. All rights reserved.&nbsp; |&nbsp; <a className="text-white" href="/static/PrivacyPolicy.docx">Privacy</a>&nbsp; |&nbsp; <a className="text-white" href="/static/ToS.docx">Terms of Service</a>
-        </p>
-      </div>
     </div>
   </footer>
 )

@@ -13,11 +13,11 @@ export const BuildSeamlessApps = function() {
       <div className='container'>
         <div className='lg:w-9/12 mx-auto text-center mb-8'>
           <h2 className='font-silkaSemiBold text-2xl md:text-3xl pb-6 lg:pb-0'>
-            Build a seamless application with GSN
+            GSN v1 third-party SDKs 
           </h2>
 
           <p className='text-sm md:text-base'>
-            Use the following SDKs to easily integrate your application with the Gas Station Network. Although you can do it by yourself, the following partners give you plug-play solutions to solve your onboarding needs.
+            The following third-party SDKs may help integrate your application with GSN v1.
           </p>
         </div>
 

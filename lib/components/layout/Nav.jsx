@@ -47,14 +47,11 @@ export const Nav = class _Nav extends Component {
           >
             <div className='text-sm md:flex-grow'></div>
             <div>
-              <NavLink href='/recipients'>
-                Dapp Tool
+              <NavLink href='https://docs.opengsn.org/'>
+                Docs
               </NavLink>
-              <NavLink href='/relays'>
-                Relayer Tool
-              </NavLink>
-              <NavLink target="_blank" href='https://explore.duneanalytics.com/public/dashboards/9aUVYdNsXB8HmgpeALDOx0g42R8LD4Ns9ZoknrfD'>
-                Network Stats
+              <NavLink href='https://github.com/opengsn/gsn'>
+	      GitHub
               </NavLink>
             </div>
           </div>

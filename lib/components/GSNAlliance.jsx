@@ -64,10 +64,6 @@ export const GSNAlliance = function() {
           </div>
         </div>
 
-        <p className='text-sm text-center mb-10'>
-          Spun up from the Metacartel organization. The GSN Alliance was formed to develop, deploy and maintain the system.
-        </p>
-
       </div>
     </div>
   )
