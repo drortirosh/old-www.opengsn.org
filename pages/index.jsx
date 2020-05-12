@@ -13,7 +13,6 @@ const Home = function() {
   return (
     <MainLayout>
       <Hero />
-      <BuildSeamlessApps />
       {/*<SignUpForm />*/}
       <UsersAndAlliance />
       <GSNAlliance />
