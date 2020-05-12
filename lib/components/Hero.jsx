@@ -32,7 +32,7 @@ export const Hero = function() {
               href='https://docs.opengsn.org/'
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-indigo-500 hover:bg-indigo-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'
             >
-              Integration docs
+              Dapp integration docs
             </a>
             <a
               href='https://metacoin.opengsn.org/'
