@@ -38,7 +38,7 @@ export const Hero = function() {
               href='https://metacoin.opengsn.org/'
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-blue-500 hover:bg-blue-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'
             >
-              Checkout demo dapp
+              Try Demo dapp
             </a>
           </div>
         </div>

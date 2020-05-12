@@ -14,7 +14,6 @@ const Home = function() {
     <MainLayout>
       <Hero />
       {/*<SignUpForm />*/}
-      <UsersAndAlliance />
       <GSNAlliance />
     </MainLayout>
   )
