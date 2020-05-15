@@ -29,10 +29,10 @@ export const Hero = function() {
 	  </div>
           <div className="m-auto justify-center flex flex-wrap sm:justify-between flex-row space-between max-w-md">
             <a
-              href='https://docs.opengsn.org/'
+              href='https://docs.opengsn.org/tutorials'
               className='font-silkaSemiBold shadow uppercase rounded tracking-wider bg-indigo-500 hover:bg-indigo-600 mt-5 text-white hover:text-white p-2 px-4 inline-block trans trans-slow'
             >
-              Dapp integration docs
+              Integration tutorial
             </a>
             <a
               href='https://metacoin.opengsn.org/'
